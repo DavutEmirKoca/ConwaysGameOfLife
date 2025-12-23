@@ -42,3 +42,8 @@ To run this project, you need a C++ compiler (like g++).
 <td><img src="Chaos.gif" width="100%" alt="Chaos Demo"></td> 
 </tr> 
 </table>
+
+##  Video Walkthrough
+Click the image below to watch the demo and explanation:
+
+[![Watch the video](ConwaysGameOfLife.jpg)](https://www.youtube.com/watch?v=EfuyXXB3kxs)
